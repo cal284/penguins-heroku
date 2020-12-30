@@ -12,6 +12,9 @@ st.write("""
 
 This app predicts the **Palmer Penguin** species!
 
+
+Data obtained from the [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
+
 Data obtained from the [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
 """)
 
